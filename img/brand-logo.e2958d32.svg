@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <!-- 桔子水晶酒店品牌标识：六枚金色箭头环绕成六边形，每枚指向外侧 -->
+  <defs>
+    <g id="chevron">
+      <path d="M -26 -52 L 0 -88 L 26 -52" fill="none" stroke="#b79463" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </defs>
+  <g>
+    <use href="#chevron" transform="translate(120 120)"/>
+    <use href="#chevron" transform="translate(120 120) rotate(60)"/>
+    <use href="#chevron" transform="translate(120 120) rotate(120)"/>
+    <use href="#chevron" transform="translate(120 120) rotate(180)"/>
+    <use href="#chevron" transform="translate(120 120) rotate(240)"/>
+    <use href="#chevron" transform="translate(120 120) rotate(300)"/>
+  </g>
+</svg>
